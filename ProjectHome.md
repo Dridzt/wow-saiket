@@ -1,0 +1,3 @@
+Downloads and SVN repository for Saiket's <em>abandoned</em> World of Warcraft add-ons.  Visit <a href='http://sites.google.com/site/wowsaiket/'>the wow-saiket portal</a> for documentation and other useful links.
+
+<blockquote><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=saiket%2ewow%40gmail%2ecom&lc=US&item_name=WoW%2dSaiket%20AddOn%20Donations&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted'><img src='https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif' alt='Donate' /></a></blockquote>
